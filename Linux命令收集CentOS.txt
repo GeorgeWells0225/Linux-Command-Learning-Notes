@@ -77,8 +77,6 @@ $ CentOS wget -c http://example.com/really-big-file.iso 这里所指定的 -c 选项的作
 $ CentOS wget -m -k (-H) http://www.example.com/ 该命令可用来镜像一个网站，CentOS wget将对链接进行转换。如果网站中的图像是放在另外的站点，那么可以使用 -H 选项。
 
 
-作者：song先生
-链接：https://www.imooc.com/article/17781?block_id=tuijian_wz
-来源：慕课网
+
 
 
